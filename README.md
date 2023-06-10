@@ -16,7 +16,7 @@ Currently working as lead developer in a car rental company. I'm trying to make 
   <img src="./vuejs-original-wordmark.svg" width="40" heigh="40" />
   <img src="./bootstrap-original-wordmark.svg" width="40" heigh="40" />
   <img src="./laravel-plain-wordmark.svg" width="40" heigh="40" />
-  <img src="./vuetify-origina.svg" width="40" heigh="40" />
+  <img src="./vuetify-original.svg" width="40" heigh="40" />
   <img src="./docker-original-wordmark.svg" width="40" heigh="40" />
 </div>
 
