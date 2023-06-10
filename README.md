@@ -4,7 +4,7 @@ I'm a fullstack developer from beautiful city of Antioch/Turkey. I've been in th
 
 Currently working as lead developer in a car rental company. I'm trying to make life easier for other employees by working on performant and user-friendly car rental software.
 
-#### Skills i'm proficient at **Some**
+#### Skills i'm proficient at
 <div>
   <img src="./html5-original-wordmark.svg" width="40" heigh="40" />
   <img src="./css3-original-wordmark.svg" width="40" heigh="40" />
